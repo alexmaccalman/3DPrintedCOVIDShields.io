@@ -21,12 +21,12 @@ If you have a Sovol, [this user manual](https://drive.google.com/file/d/1Jwcd8sj
 Download slicing software [Cura](https://ultimaker.com/software/ultimaker-cura)  
 
 ## Step 4: Print test objects. 
-Print the 3D XYZ cube for your first print. Then print this boat that is a more complicated design. You can download the 3DBenchy.stl file [here](https://www.thingiverse.com/thing:763622/files)    
+Print this boat. I is a common test case used when gettig started. You can download the 3DBenchy.stl file [here](https://www.thingiverse.com/thing:763622/files)    
 
 ## Step 5: Print Masks.
 First print one mask. Download the .stl file for one frame ![here](/assests/1_letter_3-hole.stl)  
-Then print a stack of two masks to ensure the spacing between the two is correct. Download the .stl file for the two stack model ![here](/assests/2 stack .24mm.stl)  
-Once ready, use the 8 stack for prduction mode. Download the .stl file for teh eight stack model ![here](/assests/8 stack .24.stl)  
+Then print a stack of two masks to ensure the spacing between the two is correct. Download the .stl file for the two stack model ![here](/assests/2_stack_24mm.stl)  
+Once ready, use the 8 stack for prduction mode. Download the .stl file for teh eight stack model ![here](/assests/8 stack_24mm.stl)  
 Use a knife to split the frames into their individual pieces.
 
 There are several resources that allow anyone to find hospitals in need. Here are some:  
