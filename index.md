@@ -1,0 +1,37 @@
+# 3D Printing COVID Face Shield Instructions  
+
+The purpose of this website is to outline the steps needed to 3D print face shields for hospitals that need them during the pandemic war.  
+
+## Step 1: Buy a 3D printer.   
+I brought a RepRap type 3D printer made by [Sovol on Amazon](https://www.amazon.com/dp/B07TMLJS8Z/ref=cm_sw_r_apa_i_YAZKEbT34FYV3)  
+
+Other RepRap types include [Ender 3](https://www.amazon.com/Comgrow-Creality-Printer-Upgrade-Certified/dp/B07GYRQVYV) and [CR 10](https://www.amazon.com/Official-Creality-3D-Printer-12x12x15-5/dp/B07LG2K55Q/ref=sr_1_2?dchild=1&keywords=cr10+3d+printer&qid=1588033169&s=industrial&sr=1-2).  
+
+[Buy PLA filament](https://www.amazon.com/dp/B07R1SJCL6/ref=cm_sw_r_apa_i_xHZKEbFY30JT3)  
+
+Buy transparent sheets: [UNV21010 - Universal Transparent Sheets](https://www.amazon.com/gp/product/B074QXD918/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
+
+You may find other sites selling UNV21010 sheets that are cheaper than Amazon.  
+## Step 2: Learn to print.  
+[This video](https://www.youtube.com/watch?v=T-Z3GmM20JM) teaches you about setting up a printer and doing a first print job. 
+[This video](https://www.youtube.com/watch?v=3LBTkLsjHGQ) goes into more detail on 3D printing with the tools used to create the software needed to print. Generally, Computer Aided Design Software designs 3D objects and slicing software sets up the printing parameters in a .stl file and converts to a .gcode file that is loaded onto the printer.  
+
+## Step 3: Assemble printer and download the slicing software.    
+If you have a Sovol, [this user manual](https://drive.google.com/file/d/1Jwcd8sjB3ZGyrze-Ci5c0DzP0ElAvcmj/view) was more helpful than the one that came with the box.   
+Download slicing software [Cura](https://ultimaker.com/software/ultimaker-cura)  
+
+## Step 4: Print test objects. 
+Print the 3D XYZ cube for your first print. Then print this boat that is a more complicated design. You can download the 3DBenchy.stl file [here](https://www.thingiverse.com/thing:763622/files)    
+
+## Step 5: Print Masks.
+First print one mask. Download the .stl file for one frame ![here](/assests/1_letter_3-hole.stl)  
+Then print a stack of two masks to ensure the spacing between the two is correct. Download the .stl file for the two stack model ![here](/assests/2 stack .24mm.stl)  
+Once ready, use the 8 stack for prduction mode. Download the .stl file for teh eight stack model ![here](/assests/8 stack .24.stl)  
+Use a knife to split the frames into their individual pieces.
+
+There are several resources that allow anyone to find hospitals in need. Here are some:  
+[masksforheros](https://www.masksforheroes.com/)  
+[NIH 3D Print Exchange](https://3dprint.nih.gov/)  
+[America Makes](https://www.americamakes.us/statement-on-covid-19/)  
+
+
