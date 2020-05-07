@@ -28,6 +28,7 @@ First print one mask. Download the .stl file for one frame [here]( https://githu
 )  
 Then print a stack of two masks to ensure the spacing between the two is correct. Download the .stl file for the two stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/2_stack_24mm.stl)  
 Once ready, use the 8 stack for prduction mode. Download the .stl file for the eight stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/8_stack_24mm.stl)  
+
 Use a knife to split the frames into their individual pieces. Then using a standard 3 hole punch, create 3 holes in the transparent sheets and insert them onto the frames.
 
 There are several resources that allow anyone to find hospitals in need. Here are some:  
