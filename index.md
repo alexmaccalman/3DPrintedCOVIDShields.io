@@ -1,6 +1,6 @@
 # 3D Printing COVID Face Shield Instructions  
 ![Making Face Shields](/assests/mask.png)
-The purpose of this website is to outline the steps needed to 3D print face shields for hospitals that need them during the pandemic war.  
+*The purpose of this website is to outline the steps needed to 3D print face shields for hospitals that need them during the pandemic war.*  
 
 ## Step 1: Buy a 3D printer and materials.   
 I brought a RepRap type 3D printer made by [Sovol on Amazon](https://www.amazon.com/dp/B07TMLJS8Z/ref=cm_sw_r_apa_i_YAZKEbT34FYV3)  
