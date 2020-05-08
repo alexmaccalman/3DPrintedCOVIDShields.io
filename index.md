@@ -21,21 +21,25 @@ If you have a Sovol, [this user manual](https://drive.google.com/file/d/1Jwcd8sj
 Download the slicing software [Cura](https://ultimaker.com/software/ultimaker-cura).    
 
 ## Step 4: Print test objects. 
-THe Sovol printer came with an .stl file to test print a 3D XYZ cube. Once that works, tyr printing a toy boat that is a more complicated design. You can download the 3DBenchy.stl file for the boat [here](https://www.thingiverse.com/thing:763622/files).    
+The Sovol printer came with an .stl file to test print a 3D XYZ cube. Once that works, tyr printing a toy boat that is a more complicated design. You can download the 3DBenchy.stl file for the boat [here](https://www.thingiverse.com/thing:763622/files).    
 
 ## Step 5: Print Masks.
 First print one mask. Download the .stl file for one frame [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/1_letter_3-hole.stl
 )  
-I used the the printer settings in Cura shown in the figure below.
+I used the printer settings in Cura shown in the figure below.
 ![Settings](/assests/settings.png)  
 
-Once you can print one fframe, try printing a stack of two to ensure the spacing between the them is correct. Download the .stl file for the two stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/2_stack_24mm.stl).    
+Once you can print one frame, try printing a stack of two to ensure the spacing between the them is correct. Download the .stl file for the two stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/2_stack_24mm.stl).    
+This [video](https://www.youtube.com/watch?v=MHKBvk8IAc0) talks about how to design a mutli-layered stack of frames.
+
 Once ready, use the 8 stack for prduction mode. Download the .stl file for the eight stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/8_stack_24mm.stl).    
 
 Use a knife to split the frames into their individual pieces. Then using a standard 3 hole punch, create 3 holes in the transparent sheets and insert them onto the frames. If the frame is not even at the top, the transparent sheet will appear crooked. Move the frame so that it is even at the top to ensure the transparent sheet is not corooked.
 
-There are several resources that allow anyone to find hospitals in need. Here are some:  
+There are several resources that allow anyone to find hospitals in need. Here is one website:  
 [masksforheros](https://www.masksforheroes.com/)  
+
+Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)  
 [America Makes](https://www.americamakes.us/statement-on-covid-19/)  
 
