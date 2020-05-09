@@ -23,7 +23,7 @@ Download the slicing software [Cura](https://ultimaker.com/software/ultimaker-cu
 ## Step 4: Print test objects. 
 The Sovol printer came with an .stl file to test print a 3D XYZ cube. Once that works, try printing a toy boat that is a more complicated design. You can download the 3DBenchy.stl file for the boat [here](https://www.thingiverse.com/thing:763622/files).    
 
-## Step 5: Print Masks.
+## Step 5: Print Mask Frames.
 First print one mask. Download the .stl file for one frame [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/1_letter_3-hole.stl
 )  
 I used the printer settings in Cura shown in the figure below.
