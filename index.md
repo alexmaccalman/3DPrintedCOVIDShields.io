@@ -40,8 +40,8 @@ Use a knife to split the frames into their individual pieces. Then using a stand
 There are several resources that allow anyone to find hospitals in need. Here is one website:  
 [masksforheros](https://www.masksforheroes.com/)  
 
-Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.
-[NIH 3D Print Exchange](https://3dprint.nih.gov/)  
+Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.  
+[NIH 3D Print Exchange](https://3dprint.nih.gov/)    
 [America Makes](https://www.americamakes.us/statement-on-covid-19/)  
 
 
