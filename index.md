@@ -37,10 +37,12 @@ When the bed is not level or the printer settings are off, you will encounter pr
 
 Once ready, use the 8 stack for production mode. Download the .stl file for the eight stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/8_stack_24mm.stl). The 8 stack takes approximatley 14 hours to print.     
 
+## Step 6: Assemble the masks.
 Use a knife to split the frames into their individual pieces. Then using a standard 3 hole punch, create 3 holes in the transparent sheets and insert them onto the frames. If the frame is not even at the top, the transparent sheet will appear crooked. Move the frame so that it is even at the top to ensure the transparent sheet is straight.
 ![Assembling](/assests/assemble.png)  
 
-There are several resources that allow anyone to find hospitals in need. Here is one website: [masksforheros](https://www.masksforheroes.com/)  
+## Step 7: Distrubte the masks.  
+Many of you will have friends and family that work in hospitals. There are several resources that allow anyone to find hospitals in need. Here is one website: [masksforheros](https://www.masksforheroes.com/)  
 
 Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.  
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)    
