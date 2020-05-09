@@ -1,4 +1,4 @@
-# 3D Printing COVID Face Shield Instructions  
+# 3D Printing COVID-19 Face Shield Instructions  
 ### The purpose of this website is to outline the steps needed to 3D print face shields for hospitals that need them during the pandemic war.
 ![Making Face Shields](/assests/mask.png)
   
