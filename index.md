@@ -1,5 +1,5 @@
 # 3D Printing COVID-19 Face Shield Instructions  
-### The purpose of this website is to outline the steps needed to 3D print face shields for hospitals that need them during the pandemic war.
+### The purpose of this website is to outline the steps needed to 3D print face shields for hospitals that need them during the pandemic crisis.
 ![Making Face Shields](/assests/mask.png)
   
 ## Step 1: Buy a 3D printer and materials.   
@@ -11,7 +11,7 @@ Other RepRap types include [Ender 3](https://www.amazon.com/Comgrow-Creality-Pri
 
 Buy transparent sheets: [UNV21010 - Universal Transparent Sheets](https://www.amazon.com/gp/product/B074QXD918/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
 
-You may find other sites selling UNV21010 sheets that are cheaper than Amazon.  
+(You may find other sites selling UNV21010 sheets that are cheaper than Amazon).  
 ## Step 2: Learn to print.  
 [This video](https://www.youtube.com/watch?v=T-Z3GmM20JM) teaches you about setting up a printer and doing a first print job. 
 [This video](https://www.youtube.com/watch?v=3LBTkLsjHGQ) goes into more detail on 3D printing with the tools used to create the software needed to print. Generally, Computer Aided Design Software designs 3D objects and slicing software sets up the printing parameters in a .stl file and converts to a .gcode file that is loaded onto the printer.  
@@ -31,14 +31,16 @@ Some of the printer settings are unique to the printer type, like the bed size a
 
 Once you can print one frame, try printing a stack of two to ensure the spacing between the them is correct. Download the .stl file for the two stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/2_stack_24mm.stl).  
 
-[This video](https://www.youtube.com/watch?v=MHKBvk8IAc0) talks about how to design a mutli-layered stack of frames.
+[This video](https://www.youtube.com/watch?v=MHKBvk8IAc0) talks about how to design a mutli-layered stack of frames.  
+When the bed is not level or the printer settings are off, you will encounter problems with hte print job. The figure below are examples of a bad print job.   
+![Bad Printing](/assests/bad.png)
 
 Once ready, use the 8 stack for production mode. Download the .stl file for the eight stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/8_stack_24mm.stl).    
 
-Use a knife to split the frames into their individual pieces. Then using a standard 3 hole punch, create 3 holes in the transparent sheets and insert them onto the frames. If the frame is not even at the top, the transparent sheet will appear crooked. Move the frame so that it is even at the top to ensure the transparent sheet is not corooked.
+Use a knife to split the frames into their individual pieces. Then using a standard 3 hole punch, create 3 holes in the transparent sheets and insert them onto the frames. If the frame is not even at the top, the transparent sheet will appear crooked. Move the frame so that it is even at the top to ensure the transparent sheet is straight.
+![Assembling](/assests/assemble.png)
 
-There are several resources that allow anyone to find hospitals in need. Here is one website:  
-[masksforheros](https://www.masksforheroes.com/)  
+There are several resources that allow anyone to find hospitals in need. Here is one website: [masksforheros](https://www.masksforheroes.com/)  
 
 Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.  
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)    
