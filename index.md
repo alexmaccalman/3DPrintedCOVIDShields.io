@@ -46,6 +46,6 @@ Other websites have designs for other equipment and bridge the need for medical 
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)    
 [America Makes](https://www.americamakes.us/statement-on-covid-19/)  
 
-Thank you for your contributions. 
+Thank you for your contributions.   
 Alex MacCalman
 
