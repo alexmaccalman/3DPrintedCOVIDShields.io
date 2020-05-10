@@ -42,12 +42,13 @@ Use a knife to split the frames into their individual pieces. Then using a stand
 ![Assembling](/assests/assemble.png)  
 
 ## Step 7: Distrubte the masks.  
+The masks stack nicely in boxes.  
+![Assembling](/assests/box.png)  
 Many of you will have friends and family that work in hospitals. There are several resources that allow anyone to find hospitals in need. Here is one website: [masksforheros](https://www.masksforheroes.com/)  
 
 Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.  
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)    
 [America Makes](https://www.americamakes.us/statement-on-covid-19/)  
 
-Thank you for your contributions.   
-Alex MacCalman
+Thank you for your contributions and please share these instructions to your network. 
 
