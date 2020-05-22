@@ -33,7 +33,7 @@ Once you can print one frame, try printing a stack of two to ensure the spacing 
 
 [This video](https://www.youtube.com/watch?v=MHKBvk8IAc0) talks about how to design a mutli-layered stack of frames.  
 When the bed is not level or the printer settings are off, you will encounter problems with the print job. The figure below show examples of a bad print job. Expect that this will happen.  
-![Bad Printing](/assests/bad.png)
+![Bad Printing](/assests/bad2.png)
 
 Once ready, use the 8 stack for production mode. Download the .stl file for the eight stack model [here]( https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/8_stack_24mm.stl). The 8 stack takes approximatley 14 hours to print.     
 
