@@ -50,7 +50,7 @@ Other websites have designs for other equipment and bridge the need for medical 
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)    
 [America Makes](https://www.americamakes.us/statement-on-covid-19/)  
 [Johns Hopkins Hospitals](https://www.hopkinsmedicine.org/coronavirus/giving.html#supplies)  
-Download instructions on how to hand sew mask [here](https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/JHUmasks.pdf)  
+Download instructions on how to hand sew mask [here](https://github.com/alexmaccalman/3DPrintedCOVIDShields.io/raw/master/assests/JHUmasks.pdf).  
 
 Please share these instructions to your network to inpire others to contribute. 
 
