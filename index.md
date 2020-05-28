@@ -49,6 +49,8 @@ Many of you will have friends and family that work in hospitals. There are sever
 Other websites have designs for other equipment and bridge the need for medical equipment with 3D manufacturers.  
 [NIH 3D Print Exchange](https://3dprint.nih.gov/)    
 [America Makes](https://www.americamakes.us/statement-on-covid-19/)  
+[Johns Hopkins Hospitals](https://www.hopkinsmedicine.org/coronavirus/giving.html#supplies)  
+
 
 Please share these instructions to your network to inpire others to contribute. 
 
